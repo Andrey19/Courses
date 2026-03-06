@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Courses" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+
+    </style>
+
+    <style name="AppThemeActiveIndicatorStyle" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/glass</item>
+    </style>
+
+    <style name="Style.BottomNav" parent="Widget.Material3.BottomNavigationView">
+        <!-- Tint цвета из селектора -->
+        <item name="itemIconTint">@color/icon_color_selector</item>
+        <item name="itemTextColor">@color/icon_color_selector</item>
+
+        <!-- Соответствующий background для state layer -->
+        <item name="itemBackground">@color/dark_grey</item>
+
+        <!-- Active indicator style -->
+        <item name="itemActiveIndicatorStyle">@style/AppThemeActiveIndicatorStyle</item>
+
+        <item name="android:background">@color/dark_grey</item>
+        <item name="android:fontFamily">Roboto</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item> <!-- Для font-weight: 600 (SemiBold) -->
+        <item name="android:lineHeight">15sp</item>
+        <item name="android:letterSpacing">0.0267</item> <!-- 0.4px в относительных единицах -->
+        <item name="android:gravity">center</item>
+
+        <!-- Отступы -->
+        <item name="itemPaddingTop">12dp</item>
+        <item name="itemPaddingBottom">16dp</item>
+        <item name="gapBetweenBars">4dp</item>
+
+    </style>
+
+    <style name="Theme.Courses" parent="Base.Theme.Courses" />
+</resources>

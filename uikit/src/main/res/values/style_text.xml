@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AndroidHeadline">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:fontWeight">400</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:lineHeight">36sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="AndroidTitleMedium">
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:fontWeight">500</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineHeight">18sp</item>
+        <item name="android:letterSpacing">0.0094</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="AndroidBodyMedium">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:fontWeight">400</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineHeight">20sp</item>
+        <item name="android:letterSpacing">0.0179</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="AndroidButton">
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:fontWeight">500</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineHeight">20sp</item>
+        <item name="android:letterSpacing">0.0071</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+
+    <style name="AndroidBodySmall">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:fontWeight">400</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:lineHeight">16sp</item>
+        <item name="android:letterSpacing">0.0333</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="AndroidCaption">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:fontWeight">400</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:lineHeight">14sp</item>
+        <item name="android:letterSpacing">0.0333</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="AndroidButtonSmall">
+        <item name="android:fontFamily">@font/roboto_semibold</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:lineHeight">15sp</item>
+        <item name="android:letterSpacing">0.0333</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontWeight">600</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+
+    <style name="AndroidTitleLarge">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:fontWeight">400</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:lineHeight">28sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="AndroidButtonSmallDetail">
+        <item name="android:fontFamily">@font/roboto_semibold</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:lineHeight">15sp</item>
+        <item name="android:letterSpacing">0.0333</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontWeight">600</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="AndroidCourseBodyMedium">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:fontWeight">400</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineHeight">18sp</item>
+        <item name="android:letterSpacing">0.0179</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+    <style name="AndroidBlur">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+</resources>
+
+
+
+

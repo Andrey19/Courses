@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Courses</string>
+    <string name="empty_courses">empty courses</string>
+    <string name="course_name">course name</string>
+    <string name="bottom_navigation_mainScreen">Главная</string>
+    <string name="bottom_navigation_favorites">Избранное</string>
+    <string name="bottom_navigation_profile">Аккаунт</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="search_courses">Search courses…</string>
+    <string name="entry_name">Вход</string>
+    <string name="log_out">Выход</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+    <string name="entry_password_hint">Введите пароль</string>
+    <string name="entry_button">Вход</string>
+    <string name="no_account_registration">Нету аккаунта? <font fgcolor="#FF12B956">Регистрация</font></string>
+    <string name="remember_password">Забыл пароль</string>
+    <string name="favorite">Избранное</string>
+    <string name="data_add">По дате добавления</string>
+    <string name="detail">Подробнее</string>
+    <string name="empty_account_fragment">Empty Account Fragment</string>
+    <string name="course_image">Course Image</string>
+    <string name="network_error">Ошибка сети</string>
+    <string name="favourite_flag_image">favourite flag image</string>
+    <string name="rate_star_image">rate star image</string>
+    <string name="rating_value_example">4.9</string>
+    <string name="date_example">25.11.2025</string>
+    <string name="courses_description">courses description</string>
+    <string name="price_example">999 ₽</string>
+    <string name="right_arrow_image">right arrow image</string>
+    <string name="vk_button_image">VK button image</string>
+    <string name="ok_image_button">OK image button</string>
+    <string name="funnel_image">Funnel image</string>
+    <string name="search_image">Search image</string>
+    <string name="up_down_arrow_image">Up/down arrow image</string>
+</resources>
